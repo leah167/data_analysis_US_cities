@@ -1,0 +1,101 @@
+Order|State_City|Population|Budget|Mayor|Begin_Term|End_Term|Govern_Type|foo1|foo2
+1 |New York, New York |8,405,837 |$73,000,000,000|Bill de Blasio (D) |2014 |2022 |Strong mayor |Yes |No
+2 |Los Angeles, California |3,884,307 |$8,100,000,000 |Eric Garcetti (D) |2013 |2022 |Strong mayor |Yes |No
+3 |Chicago, Illinois |2,718,782 |$7,300,000,000 |Lori Lightfoot (D) |2019 |2023 |Strong mayor |No |No
+4 |Houston, Texas |2,195,914 |$5,100,000,000 |Sylvester Turner (D) |2016 |2024 |Strong mayor |No |No
+5 |Philadelphia, Pennsylvania |1,553,165 |$3,950,000,000 |James Kenney (D) |2016 |2024 |Strong mayor |No |No
+6 |Phoenix, Arizona |1,513,367 |$3,700,000,000 |Kate Gallego (D) |2019 |2020 |Council-manager |Yes |Yes
+7 |San Antonio, Texas |1,409,019 |$2,400,000,000 |Ron Nirenberg (I) |2017 |2021 |Council-manager |No |No
+8 |San Diego, California |1,355,896 |$3,200,000,000 |Todd Gloria (D) |2020 |2024 |Strong mayor |Yes |Yes
+9 |Dallas, Texas |1,257,676 |$2,800,000,000 |Eric Johnson (D) |2019 |2023 |Council-manager |No |No
+10 |San Jose, California |998,537 |$3,000,000,000 |Sam Liccardo (D) |2007 |2022 |Council-manager |Yes |No
+11 |Honolulu, Hawaii |983,429 |$2,100,000,000 |Kirk Caldwell (D) |2013 |2020 |Strong mayor |Yes |Yes
+12 |Austin, Texas |885,400 |$3,500,000,000 |Stephen Adler (D) |2015 |2023 |Strong mayor |Yes |No
+13 |Indianapolis, Indiana |843,393 |$1,030,000,000 |Joseph Hogsett (D) |2016 |2024 |Strong mayor |No |No
+14 |Jacksonville, Florida |842,583 |$1,040,000,000 |Lenny Curry (R) |2015 |2023 |Strong mayor |Yes |No
+15 |San Francisco, California |837,442 |9,700,000,000 |London Breed (D) |2018 |2024 |Strong mayor |Yes |No
+16 |Columbus, Ohio |822,553 |$814,000,000 |Andrew J. Ginther (D) |2015 |2023 |Strong mayor |No |No
+17 |Charlotte, North Carolina |792,862 |$2,100,000,000 |Vi Lyles (D) |2017 |2021 |Council-manager |No |No
+18 |Fort Worth, Texas |792,727 |$1,500,000,000 |Betsy Price (R) |2011 |2021 |Council-manager |No |No
+19 |Detroit, Michigan |688,701 |$2,600,000,000 |Mike Duggan (D) |2014 |2022 |Strong mayor |No |No
+20 |El Paso, Texas |674,433 |$801,400,000 |Dee Margo (R) |2017 |2021 |Council-manager |Yes |Yes
+21 |Memphis, Tennessee |653,450 |$618,000,000 |Jim Strickland (D) |2016 |2024 |Strong mayor |No |No
+22 |Seattle, Washington |652,405 |$4,400,000,000 |Jenny Durkan (D) |2017 |2021 |Strong mayor |No |No
+23 |Denver, Colorado |649,495 |$1,490,000,000 |Michael B. Hancock (D) |2011 |2023 |Strong mayor |Yes |No
+24 |Boston, Massachusetts |645,966 |$2,700,000,000 |Martin Walsh (D) |2014 |2022 |Strong mayor |No |No
+25 |Nashville, Tennessee |634,464 |$1,800,000,000 |John Cooper (D) |2015 |2023 |Strong mayor |Yes |No
+26 |Baltimore, Maryland |622,104 |$1,648,000,000 |Brandon M. Scott (D) |2020 |2024 |Strong mayor |Yes |Yes
+27 |Oklahoma City, Oklahoma |610,613 |$1,100,000,000 |David Holt (R) |2018 |2022 |Council-manager |No |No
+28 |Louisville, Kentucky |609,893 |$750,000,000 |Greg Fischer (D) |2010 |2022 |Strong mayor |Yes |No
+29 |Portland, Oregon |609,456 |$3,600,000,000 |Ted Wheeler (D) |2017 |2021 |City commission |Yes |Yes
+30 |Las Vegas, Nevada |603,488 |$1,077,000,000 |Carolyn Goodman (NP) |2011 |2024 |Council-manager |No |No
+31 |Milwaukee, Wisconsin |599,164 |$590,000,000 |Tom Barrett (D) |2004 |2024 |Strong mayor |Yes |Yes
+32 |Albuquerque, New Mexico |556,495 |$893,000,000 |Tim Keller (D) |2017 |2022 |Strong mayor |No |No
+33 |Tucson, Arizona |526,116 |$1,265,000,000 |Regina Romero (D) |2019 |2023 |Council-manager |No |No
+34 |Fresno, California |509,924 |$977,000,000 |Lee Brand (R) |2017 |2021 |Hybrid |Yes |Yes
+35 |Sacramento, California |479,686 |$819,000,000 |Darrell Steinberg (D) |2016 |2024 |Council-manager |Yes |Yes
+36 |Long Beach, California |469,428 |$3,100,000,000 |Robert Garcia (D) |2014 |2022 |Council-manager |Yes |No
+37 |Kansas City, Missouri |467,007 |$1,400,000,000 |Quinton Lucas (D) |2019 |2023 |Council-manager |No |No
+38 |Mesa, Arizona |457,587 |$1,300,000,000 |John Giles (R) |2014 |2020 |Council-manager |Yes |Yes
+39 |Virginia Beach, Virginia |448,479 |$1,800,000,000 |Bob Dyer (R) |2018 |2021 |Council-manager |Yes |Yes
+40 |Atlanta, Georgia |447,841 |$533,000,000 |Keisha Bottoms (D) |2018 |2022 |Strong mayor |No |No
+41 |Colorado Springs, Colorado |439,886 |$249,000,000 |John W. Suthers (R) |2015 |2023 |Strong mayor |No |No
+42 |Omaha, Nebraska |434,353 |$800,000,000 |Jean Stothert (R) |2013 |2021 |Strong mayor |Yes |No
+43 |Raleigh, North Carolina |431,746 |$754,000,000 |Mary-Ann Baldwin (D) |2019 |2021 |Council-manager |No |No
+44 |Miami, Florida |417,650 |$523,000,000 |Francis Suarez (R) |2017 |2021 |Hybrid |No |No
+45 |Oakland, California |406,253 |$2,000,000,000 |Elizabeth Schaaf (D) |2015 |2023 |Hybrid |Yes |No
+46 |Minneapolis, Minnesota |400,070 |$1,200,000,000 |Jacob Frey (D) |2018 |2021 |Strong mayor* |Yes |No
+47 |Tulsa, Oklahoma |398,121 |$597,000,000 |G. T. Bynum (R) |2016 |2024 |Strong mayor |No |Yes
+48 |Cleveland, Ohio |390,113 |$1,470,000,000 |Frank Jackson (D) |2006 |2021 |Strong mayor |No |No
+49 |Wichita, Kansas |386,552 |$577,000,000 |Brandon Whipple (D) |2020 |2024 |Council-manager |No |No
+50 |Arlington, Texas |379,577 |$490,000,000 |Jeff Williams (R) |2015 |2021 |Council-manager |Yes |No
+51 |New Orleans, Louisiana |378,715 |$505,000,000 |LaToya Cantrell (D) |2018 |2022 |Strong mayor |Yes |No
+52 |Bakersfield, California |363,630 |$418,000,000 |Karen Goh (R) |2017 |2025 |Council-manager |Yes |Yes
+53 |Tampa, Florida |352,957 |$830,000,000 |Jane Castor (D) |2019 |2023 |Strong mayor |No |No
+54 |Aurora, Colorado |345,803 |$591,400,000 |Mike Coffman (R) |2019 |2023 |Council-manager |No |No
+55 |Anaheim, California |345,012 |$1,600,000,000 |Harry Sidhu (R) |2018 |2022 |Council-manager |Yes |No
+56 |Santa Ana, California |334,227 |$430,000,000 |Miguel Pulido (D) |1994 |2020 |Council-manager |Yes |Yes
+57 |St. Louis, Missouri |318,416 |$985,200,000 |Lyda Krewson (D) |2017 |2021 |Strong mayor |Yes |No
+58 |Riverside, California |316,619 |$894,000,000 |Patricia Lock Dawson (NP) |2012 |2024 |Council-manager |No |Yes
+59 |Corpus Christi, Texas |316,381 |$772,000,000 |Joe McComb (R) |2017 |2020 |Council-manager |Yes |Yes
+60 |Lexington, Kentucky |308,428 |$540,000,000 |Linda Gorton (R) |2019 |2023 |Strong mayor |Yes |No
+61 |Pittsburgh, Pennsylvania |305,841 |$488,000,000 |Bill Peduto (D) |2014 |2022 |Strong mayor |No |No
+62 |Anchorage, Alaska |300,950 |$471,000,000 |Austin Quinn-Davidson (NP) |2020 |2021 |Hybrid |Yes |No
+63 |Stockton, California |298,118 |$632,000,000 |Kevin Lincoln II (R) |2021 |2024 |Council-manager |Yes |Yes
+64 |Cincinnati, Ohio |297,517 |$358,000,000 |John Cranley (D) |2013 |2022 |Hybrid |No |No
+65 |St. Paul, Minnesota |294,873 |$515,500,000 |Melvin Carter III (D) |2018 |2022 |Strong mayor |No |No
+66 |Toledo, Ohio |282,313 |$650,000,000 |Wade Kapszukiewicz (D) |2018 |2022 |Strong mayor |Yes |No
+67 |Greensboro, North Carolina |279,639 |$472,000,000 |Nancy B. Vaughan (D) |2013 |2021 |Council-manager |No |No
+68 |Newark, New Jersey |278,427 |$800,000,000 |Ras J. Baraka (D) |2014 |2022 |Strong mayor |No |No
+69 |Plano, Texas |274,409 |$492,000,000 |Harry LaRosiliere (R) |2013 |2021 |Council-manager |No |No
+70 |Henderson, Nevada |270,811 |$482,000,000 |Debra March (D) |2017 |2021 |Council-manager |No |No
+71 |Lincoln, Nebraska |268,738 |$159,000,000 |Leirion Gaylor Baird (D) |2019 |2023 |Strong mayor |No |No
+72 |Buffalo, New York |258,959 |$479,900,000 |Byron Brown (D) |2005 |2021 |Strong mayor |No |No
+73 |Jersey City, New Jersey |257,342 |$535,300,000 |Steven Fulop (D) |2013 |2021 |Strong mayor |Yes |No
+74 |Chula Vista, California |256,780 |$293,400,000 |Mary Salas (D) |2014 |2022 |Council-manager |Yes |No
+75 |Fort Wayne, Indiana |256,496 |$190,200,000 |Tom Henry (D) |2008 |2024 |Strong mayor |No |No
+76 |Orlando, Florida |255,483 |$934,000,000 |Buddy Dyer (D) |2003 |2024 |Strong mayor |No |No
+77 |St. Petersburg, Florida |249,688 |$483,000,000 |Rick Kriseman (D) |2014 |2022 |Strong mayor |No |No
+78 |Chandler, Arizona |249,146 |$783,000,000 |Kevin Hartke (NP)|2019 |2023 |Council-manager |Yes |No
+79 |Laredo, Texas |248,142 |$556,000,000 |Pete Saenz (I) |2014 |2022 |Council-manager |Yes |No
+80 |Norfolk, Virginia |246,139 |$1,100,000,000 |Kenneth Alexander (D) |2016 |2024 |Council-manager |Yes |Yes
+81 |Durham, North Carolina |245,475 |$389,900,000 |Steve Schewel (D) |2017 |2021 |Council-manager |No |No
+82 |Madison, Wisconsin |243,344 |$283,100,000 |Satya Rhodes-Conway (D) |2019 |2023 |Strong mayor |Yes |No
+83 |Lubbock, Texas |239,538 |$674,500,000 |Dan Pope (R) |2016 |2020 |Council-manager |Yes |Yes
+84 |Irvine, California |236,716 |$401,000,000 |Farrah Khan (D) |2020 |2022 |Council-manager |Yes |Yes
+85 |Winston-Salem, North Carolina |236,441 |$414,700,000 |Allen Joines (D) |2001 |2020 |Council-manager |Yes |Yes
+86 |Glendale, Arizona |234,632 |$632,000,000 |Jerry Weiers (R) |2013 |2020 |Council-manager |Yes |Yes
+87 |Garland, Texas |234,566 |$629,100,000 |Scott LeMay (R) |2019 |2021 |Council-manager |Yes |No
+88 |Hialeah, Florida |233,394 |$257,000,000 |Carlos Hernandez (R) |2011 |2021 |Strong mayor |No |No
+89 |Reno, Nevada |233,294 |$492,000,000 |Hillary Schieve (NP) |2014 |2022 |Council-manager |Yes |No
+90 |Chesapeake, Virginia |230,571 |$937,800,000 |Richard West (R) |2008 |2024 |Council-manager |Yes |Yes
+91 |Gilbert, Arizona |229,972 |$615,000,000 |Scott Anderson (NP) |2020 |2021 |Council-manager |Yes |Yes
+92 |Baton Rouge, Louisiana |229,426 |$830,000,000 |Sharon Weston Broome (D) |2017 |2021 |Strong mayor |Yes |Yes
+93 |Irving, Texas |228,653 |$526,500,000 |Rick Stopfer (R) |2017 |2020 |Council-manager |Yes |Yes
+94 |Scottsdale, Arizona |226,918 |$1,200,000,000 |Jim Lane (R) |2009 |2021 |Council-manager |Yes |Yes
+95 |North Las Vegas, Nevada |226,877 |$413,890,000 |John J. Lee (D) |2013 |2022 |Council-manager |No |No
+96 |Fremont, California |224,922 |$238,460,000 |Lily Mei (Nonpartisan) |2016 |2020 |Council-manager |Yes |Yes
+97 |Boise, Idaho |214,237 |$514,900,000 |Lauren McLean (D) |2020 |2024 |Strong mayor |No |No
+98 |San Bernardino, California |213,708 |$128,000,000 |John Valdivia (R) |2018 |2022 |Hybrid |Yes |No
+99 |Birmingham, Alabama |212,113 |$411,000,000 |Randall L. Woodfin (D) |2017 |2021 |Strong mayor |No |No
+100 |Richmond, Virginia |207,878 |$1,722,417,160 |Levar Stoney (D) |2016 |2020 |Strong mayor |Yes |Yes
